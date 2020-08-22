@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Máté Baranyi
+title: Baranyi Máté
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: doktorandusz
 
 # Organizations/Affiliations
 organizations:
-- name: Budapest University of Technology and Economics, Department of Stochastics
+- name: Budapesti Műszaki és Gazdaságtudományi Egyetem, Sztochasztika Tanszék
   url: "random.math.bme.hu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include graphical models and nonparametric statistics.
 
 interests:
-- Statistics
+- Statisztika
 - Deep Learning
 - Python
 
 education:
   courses:
-  - course: PhD in Mathematics
-    institution: Budapest University of Technology and Economics
-    year: ongoing
-  - course: MSc in Applied Mathematics, financial mathematics spec.
-    institution: Budapest University of Technology and Economics
+  - course: Matematika PhD
+    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
+    year: folyamatban
+  - course: Alkalmazott matematikus MSc, pénzügy-matematika spec.
+    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
     year: 2018
-  - course: BSc in Mathematics, applied spec.
-    institution: Budapest University of Technology and Economics
+  - course: Matematika BSc, alkalmazott spec.
+    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
     year: 2016
 
 # Social/Academic Networking
@@ -76,5 +76,5 @@ email: ""
 #  - Visitors
 ---
 
-I am a PhD Student at the Budapest University of technology and Economics. My research interests include graphical models and nonparametric statistic.
-My PhD supervisor is [Marianna Bolla](math.bme.hu/~marib).
+A BME Matematika- és Számítástudományi Doktori Iskolájának doktorandusza vagyok. A főbb kutatási területeim a grafikus modellek és a nemparaméteres statisztika.
+Doktori témavezetőm [Dr. Bolla Marianna](math.bme.hu/~marib).

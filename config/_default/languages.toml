@@ -11,10 +11,47 @@
 [hu]
   languageCode = "hu-hu"
   contentDir = "content/hu"
-#  title = "Chinese website title..."
+  title = "Baranyi Máté"
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[[hu.menu.main]]
+  name = "Én"
+  url = "#about"
+  weight = 10
+
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
+
+[[hu.menu.main]]
+  name = "Publikációk"
+  url = "#featured"
+  weight = 40
+
+[[hu.menu.main]]
+  name = "Oktatás"
+  url = "#teaching"
+  weight = 50
+
+[[hu.menu.main]]
+  name = "Elérhetőségek"
+  url = "#contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[hu.menu.main]]
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 70
