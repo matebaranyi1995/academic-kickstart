@@ -71,9 +71,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+ user_groups:
+ - Researchers
+ - Visitors
 ---
 
 I am a PhD Student at the Budapest University of technology and Economics. My research interests include graphical models and nonparametric statistic.
