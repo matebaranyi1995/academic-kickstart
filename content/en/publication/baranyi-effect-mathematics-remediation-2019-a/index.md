@@ -2,7 +2,6 @@
 title: Effect of Mathematics Remediation on Academic Achievement – A Regression Discontinuity
   Approach
 date: '2019-07-01'
-draft: true
 publishDate: '2020-08-22T17:13:59.653683Z'
 authors:
 - Máté Baranyi

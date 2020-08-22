@@ -38,7 +38,7 @@
 
 [[hu.menu.main]]
   name = "Publikációk"
-  url = "#featured"
+  url = "publication"
   weight = 40
 
 [[hu.menu.main]]

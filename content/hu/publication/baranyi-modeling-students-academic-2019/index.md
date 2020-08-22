@@ -1,7 +1,6 @@
 ---
 title: Modeling Students' Academic Performance Using Bayesian Networks
 date: '2019-11-01'
-draft: true
 publishDate: '2020-08-22T17:14:23.975274Z'
 authors:
 - Máté Baranyi

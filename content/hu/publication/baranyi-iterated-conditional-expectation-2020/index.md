@@ -1,7 +1,6 @@
 ---
 title: Iterated Conditional Expectation Algorithm on DAGs and Regression Graphs
 date: '2020-06-01'
-draft: true
 publishDate: '2020-08-22T17:14:23.929474Z'
 authors:
 - Máté Baranyi

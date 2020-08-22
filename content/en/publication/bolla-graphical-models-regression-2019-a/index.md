@@ -2,7 +2,6 @@
 title: Graphical Models, Regression Graphs, and Recursive Linear Regression in a Unified
   Way
 date: '2019-01-01'
-draft: true
 publishDate: '2020-08-22T17:13:59.938428Z'
 authors:
 - Marianna Bolla
