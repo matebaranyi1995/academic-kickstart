@@ -30,19 +30,19 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-#  description = "100%"  
+  description = "100%"  
 
 [[feature]]
   icon = "omega"
   icon_pack = "fas"
   name = "Probability"
-#  description = "100%"  
+  description = "100%"  
   
 [[feature]]
   icon = "swimmer"
   icon_pack = "fas"
   name = "Swimming"
-#  description = "10%"
+  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
