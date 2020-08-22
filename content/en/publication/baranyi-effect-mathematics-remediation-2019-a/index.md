@@ -3,7 +3,7 @@ title: Effect of Mathematics Remediation on Academic Achievement – A Regressio
   Approach
 date: '2019-07-01'
 draft: true
-publishDate: '2020-08-22T16:33:01.884710Z'
+publishDate: '2020-08-22T17:13:59.653683Z'
 authors:
 - Máté Baranyi
 - Roland Molontay
@@ -18,7 +18,7 @@ abstract: Studying the effectiveness of remediation courses in higher education 
   20,000 undergraduate students enrolled between 2010 and 2018 spanning 16 semesters.
   We study both the direct and longer term effect of remediation and find that it
   has small but statistically significant positive effect on further academic achievement.
-featured: false
+featured: true
 publication: '*2019 International Symposium on Educational Technology (ISET)*'
 tags:
 - '"academic achievement"'

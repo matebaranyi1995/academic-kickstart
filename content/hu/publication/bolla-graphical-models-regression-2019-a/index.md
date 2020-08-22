@@ -3,7 +3,7 @@ title: Graphical Models, Regression Graphs, and Recursive Linear Regression in a
   Way
 date: '2019-01-01'
 draft: true
-publishDate: '2020-08-22T16:32:09.626472Z'
+publishDate: '2020-08-22T17:14:24.035105Z'
 authors:
 - Marianna Bolla
 - Fatma Abdelkhalek
@@ -17,7 +17,7 @@ abstract: This versatile topic goes back to the inventions of Gauss, Markov, and
   formulate the mathematical background. Here we mainly follow the up-to-date discussion
   of statisticians S. Lauritzen and N. Wermuth, and try to juxtapose the directed–
   undirected and discrete– continuous cases.
-featured: false
+featured: true
 publication: '*Acta Scientiarum Mathematicarum*'
 doi: 10.14232/actasm-018-331-4
 ---

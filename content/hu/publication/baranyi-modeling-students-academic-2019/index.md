@@ -2,7 +2,7 @@
 title: Modeling Students' Academic Performance Using Bayesian Networks
 date: '2019-11-01'
 draft: true
-publishDate: '2020-08-22T16:32:09.559768Z'
+publishDate: '2020-08-22T17:14:23.975274Z'
 authors:
 - Máté Baranyi
 - Kristóf Gál
@@ -23,7 +23,7 @@ abstract: Dropping out from STEM higher education is a severe global issue that 
   which other similar papers usually lack. Although the models perform generally quite
   well, we also point out inconsistencies in the results and some limitations of the
   models.
-featured: false
+featured: true
 publication: '*2019 17th International Conference on Emerging eLearning Technologies
   and Applications (ICETA)*'
 tags:
