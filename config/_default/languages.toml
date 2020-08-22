@@ -12,8 +12,10 @@
   languageCode = "hu-hu"
   contentDir = "content/hu"
   title = "Baranyi Máté"
-#  [zh.params]
-#    description = "Site description in Chinese..."
+[hu.params]
+  org_name = "Budapesti Műszaki és Gazdaságtudományi Egyetem"
+  address = {city = "Budapest", street = "Egry József u. 1", postcode = "1111"}
+  directions = "H épület, 6. em. 664"
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
