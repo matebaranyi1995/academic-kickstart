@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Készségek"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Statisztika"
 #  description = "100%"  
 
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
-  name = "Probability"
+  name = "Valszám"
 #  description = "100%"  
 
 [[feature]]
@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "swimmer"
   icon_pack = "fas"
-  name = "Swimming"
+  name = "Úszás"
 #  description = "10%"
 
 # Uncomment to use emoji icons.
