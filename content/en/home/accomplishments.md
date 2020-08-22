@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "Practical deep learning course for BSc,MSc and PhD students at Budapest University of Technology and Economics."
+  description = "Practical deep learning course for BSc, MSc and PhD students at Budapest University of Technology and Economics."
 
 # [[item]]
 #   organization = "edX"
