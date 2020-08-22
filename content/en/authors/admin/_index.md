@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include graphical models and nonparametric statistics.
 
 interests:
-- Statistics
+- Graphical models
+- Nonparametric statistics
 - Deep Learning
 - Python
+- LaTeX
 
 education:
   courses:
@@ -44,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:baranyim@math.bme.hu  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QFCE2s0AAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=QFCE2s0AAAAJ&hl=en
+  link: https://orcid.org/0000-0003-4415-4805
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Mate_Baranyi
