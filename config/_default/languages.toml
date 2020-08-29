@@ -21,10 +21,10 @@
 #    url = "#about"
 #    weight = 1
 
-[[hu.menu.main]]
-  name = "Én"
-  url = "#about"
-  weight = 10
+# [[hu.menu.main]]
+#   name = "Én"
+#   url = "#about"
+#   weight = 10
 
 # [[main]]
 #   name = "Posts"
@@ -55,5 +55,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[hu.menu.main]]
    name = "CV"
-   url = "files/cv.pdf"
+   url = "../../files/cv.pdf"
    weight = 70
