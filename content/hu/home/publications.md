@@ -66,7 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
- # {{% alert note %}}
- # Szűrhető listáért kattints [ide]({{< ref "/publication/_index.md" >}}).
- # {{% /alert %}}
