@@ -18,4 +18,4 @@ weight = 50
 
 +++
 
-Navigate to the [Hungarian website](https://baranyim.netlify.app/hu/#teaching).
+I teach Hungarian courses, for the relevant material, navigate to my [Hungarian website](https://math.bme.hu/~baranyim/hu/#teaching).
