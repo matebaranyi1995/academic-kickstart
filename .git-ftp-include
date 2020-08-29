@@ -1,0 +1,2 @@
+# to publish files that don't exist in github (example: files generated during an action run)
+public/
