@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Graphical Models and Some Related Algorithms
-subtitle: ''
+subtitle: supervised by Dr. Marianna Bolla
 summary: ''
 authors:
 - Máté Baranyi

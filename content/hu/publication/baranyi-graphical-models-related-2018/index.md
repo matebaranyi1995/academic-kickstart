@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Graphical Models and Some Related Algorithms
-subtitle: ''
+subtitle: supervised by Dr. Marianna Bolla
 summary: ''
 authors:
 - Máté Baranyi
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2020-08-29T18:04:02+02:00
+lastmod: 2020-08-29T18:03:59+02:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-29T16:04:02.023050Z'
+publishDate: '2020-08-29T16:03:58.939936Z'
 publication_types:
 - 7
 abstract: ''

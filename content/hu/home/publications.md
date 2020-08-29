@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Szűrhető listáért kattints [ide]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+ # {{% alert note %}}
+ # Szűrhető listáért kattints [ide]({{< ref "/publication/_index.md" >}}).
+ # {{% /alert %}}

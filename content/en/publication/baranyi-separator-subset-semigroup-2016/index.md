@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: The separator of a subset of a semigroup
-subtitle: ''
+subtitle: supervised by Dr. Attila Nagy
 summary: ''
 authors:
 - Máté Baranyi
