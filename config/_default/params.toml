@@ -295,4 +295,5 @@ plugins_js  = []
   netlify_cms = true
 # Icon Pack Extensions
 [icon.pack]
-  ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true
+# Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
