@@ -10,7 +10,7 @@ authors:
 - Roland Molontay
 tags:
 - '"academic achievements"'
-- '"Budapest University of Technology and Economics"'
+- '"budapest university of technology and economics"'
 - '"educational courses"'
 - '"educational data science"'
 - '"effect size"'
@@ -19,7 +19,7 @@ tags:
 - '"nonparametric regression"'
 - '"regression analysis"'
 - '"regression discontinuity design"'
-- '"STEM education"'
+- '"stem education"'
 - '"teaching"'
 - '"undergraduate students"'
 categories: []
@@ -42,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-29T15:42:13.856340Z'
+publishDate: '2021-09-20T13:06:50.977099Z'
 publication_types:
-- 1
+- '1'
 abstract: Studying the effectiveness of remediation courses in higher education has
   attracted a lot of interest from educational researchers and practitioners. Remediation
   is associated with significant economic and social costs while the results are usually

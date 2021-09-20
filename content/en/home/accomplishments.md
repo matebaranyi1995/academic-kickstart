@@ -19,13 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Wigner Computational Systems Neuroscience Lab"
+  organization_url = "http://golab.wigner.mta.hu"
+  title = "Statistical Learning in the Nervous System"
+  url = "http://golab.wigner.mta.hu/teaching/"
+  certificate_url = ""
+  date_start = "2021-02-01"
+  date_end = "2021-05-15"
+  description = "The course aims to cover a few topics in the functional description of the nervous system with special focus on statistical methods."
+
+[[item]]
   organization = "BME SmartLab"
   organization_url = "http://smartlab.tmit.bme.hu"
   title = "Deep Learning in Practice with Python and LUA"
   url = "http://smartlab.tmit.bme.hu/oktatas-deep-learning"
   certificate_url = ""
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2019-12-15"
   description = "Practical deep learning course for BSc, MSc and PhD students at Budapest University of Technology and Economics."
 
 # [[item]]

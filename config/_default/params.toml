@@ -102,7 +102,7 @@ address = {city = "Budapest", street = "Egry József u. 1", postcode = "1111", c
 coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "Building H, Floor 6, Room 664"
+directions = "Building H, Floor 5, Room 507"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

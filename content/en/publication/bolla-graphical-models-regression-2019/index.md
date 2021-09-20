@@ -10,13 +10,13 @@ authors:
 - Fatma Abdelkhalek
 - Máté Baranyi
 tags:
-- '"Bayesian networks"'
+- '"bayesian networks"'
 - '"belief propagation"'
 - '"decomposable models"'
-- '"Gaussian graphical models"'
+- '"gaussian graphical models"'
 - '"graphical models"'
 - '"junction tree"'
-- '"Markov Random Fields"'
+- '"markov random fields"'
 - '"regression graphs"'
 categories: []
 date: '2019-01-01'
@@ -38,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-29T15:42:04.805317Z'
+publishDate: '2021-09-20T13:06:35.380012Z'
 publication_types:
-- 2
+- '2'
 abstract: This versatile topic goes back to the inventions of Gauss, Markov, and Gibbs,
   whose ideas are incorporated in graphical models and regression graphs. Later, the
   geneticist S. Wright (1923– 1934) and the philosopher and computer scientist J.

@@ -10,7 +10,7 @@ authors:
 - Roland Molontay
 tags:
 - '"academic achievements"'
-- '"Budapest University of Technology and Economics"'
+- '"budapest university of technology and economics"'
 - '"educational courses"'
 - '"educational data science"'
 - '"effect size"'
@@ -19,11 +19,11 @@ tags:
 - '"nonparametric regression"'
 - '"regression analysis"'
 - '"regression discontinuity design"'
-- '"STEM education"'
+- '"stem education"'
 - '"teaching"'
 - '"undergraduate students"'
 categories: []
-date: '2020-01-01'
+date: '2021-01-01'
 lastmod: 2020-12-27T16:57:27+01:00
 featured: false
 draft: false
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-27T15:57:27.740551Z'
+publishDate: '2021-09-20T13:06:53.126799Z'
 publication_types:
 - '2'
 abstract: ''

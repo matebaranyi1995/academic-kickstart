@@ -2,4 +2,5 @@
 .idea/
 
 # Hugo
+resources/
 public/

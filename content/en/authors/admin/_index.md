@@ -59,9 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/matebaranyi1995
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/matebaranyi1995
+# - icon: gitlab
+#   icon_pack: fab
+#   link: https://gitlab.com/matebaranyi1995
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -78,5 +78,5 @@ email: ""
 #  - Visitors
 ---
 
-I am a PhD Student at the Budapest University of technology and Economics. My research interests include graphical models and nonparametric statistic.
+I am a PhD Student at the Budapest University of technology and Economics. My research interests include graphical models and nonparametric statistics.
 My PhD supervisor is [Marianna Bolla](math.bme.hu/~marib).
