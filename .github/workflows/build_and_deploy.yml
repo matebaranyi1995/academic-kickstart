@@ -30,6 +30,9 @@ jobs:
 
       - name: Build
         run: hugo
+      
+      - name: git status
+        run: git status -uno --porcelain
 
       - name: Deploy
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
