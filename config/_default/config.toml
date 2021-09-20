@@ -16,6 +16,8 @@ baseurl = "https://math.bme.hu/~baranyim/"
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = ""
 
+timeout = 600000 
+
 ############################
 ## Advanced options below ##
 ############################
