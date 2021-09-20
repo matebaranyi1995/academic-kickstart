@@ -34,8 +34,11 @@ jobs:
       - name: Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
-          server:  sftp://leibniz.math.bme.hu:22/home/student/baranyim/public_html/
+          server:  leibniz.math.bme.hu
           username: baranyim
           password: ${{ secrets.FTP_PASSWORD }}
+          port: 22
+          protocol: sftp
+          server-dir: home/student/baranyim/public_html/
           local-dir: public/
           security: loose
