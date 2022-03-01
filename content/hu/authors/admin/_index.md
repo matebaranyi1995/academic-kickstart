@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: Matematika PhD
-    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
+    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem (BME)
     year: folyamatban
-  - course: Alkalmazott matematikus MSc, pénzügy-matematika spec.
-    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
+  - course: Alkalmazott matematikus MSc; főleg sztochasztika, statisztika
+    institution: BME
     year: 2018
-  - course: Matematika BSc, alkalmazott spec.
-    institution: Budapesti Műszaki és Gazdaságtudományi Egyetem
+  - course: Matematika BSc; alkalmazott spec.
+    institution: BME
     year: 2016
 
 # Social/Academic Networking
@@ -59,9 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/matebaranyi1995
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/matebaranyi1995
+# - icon: gitlab
+#   icon_pack: fab
+#   link: https://gitlab.com/matebaranyi1995
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Teaching as PhD student"
+  title = "Teaching and supervising as PhD student"
   company = "Budapest University of Technology and Economics"
   company_url = ""
   date_start = "2018-09-01"
   description = """
-  Taught mathematics (mainly probability theory and statistics) to undergraduate (mainly in electrical engineering and mathematics) students.
+  Teaching mathematics (mainly probability theory and statistics) to undergraduate (mainly in electrical engineering and mathematics) students, supervising thesis or other individual projects of mathematics students.
   """
 
 [[experience]]

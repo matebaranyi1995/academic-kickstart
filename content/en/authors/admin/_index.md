@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: Budapest University of Technology and Economics
+    institution: Budapest University of Technology and Economics (BME)
     year: ongoing
-  - course: MSc in Applied Mathematics, financial mathematics spec.
-    institution: Budapest University of Technology and Economics
+  - course: MSc in Applied Mathematics; mainly stochastics and statistics
+    institution: BME
     year: 2018
-  - course: BSc in Mathematics, applied spec.
-    institution: Budapest University of Technology and Economics
+  - course: BSc in Mathematics; applied spec.
+    institution: BME
     year: 2016
 
 # Social/Academic Networking
